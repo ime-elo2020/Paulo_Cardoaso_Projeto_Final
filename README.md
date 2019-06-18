@@ -17,3 +17,6 @@ PD12,PD13,PD14,PD15 -> Output(LEDS)
 
 PA0 -> Input(BUTTON USER)
 
+# Diagrama de Blocos
+
+![Diagrama de Blocos](blocos.PNG)
