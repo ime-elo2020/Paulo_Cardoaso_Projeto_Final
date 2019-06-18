@@ -19,4 +19,4 @@ PA0 -> Input(BUTTON USER)
 
 # Diagrama de Blocos
 
-![Diagrama de Blocos](blocos.PNG | width = 100)
+<img src="blocos.PNG" width="500" height="400">
